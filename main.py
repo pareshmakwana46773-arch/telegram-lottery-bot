@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Config
 BOT_TOKEN = "8893475094:AAEXkB_ucaVBFngeTjxhS"
-Qbke fVQLrdRbow"  # BotFather wala token yahan daalein
+Qbke fVQLrdRbow"
 TOTAL_SLOTS = 18
 ENTRY_FEE = 18
 WINNER_PERCENTAGE = 0.70
